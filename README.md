@@ -1,2 +1,2 @@
 # taxi-ride-predictor
-This project uses machine learning models to predict the travel time of a taxi ride in New York. After using linear regression, I used a Sequential neural network model (Keras/TensorFlow) with two hidden layers of 128 neurons each. Python.
+Predicts the travel time of a taxi ride in New York. Cleans, filters, and visualizes data. Implements various iterations of linear regression and neural network models. Reaches an RMSE of 193 seconds using a sequential neural network model with two hidden layers of 128 neurons each. Python, Keras, TensorFlow.
